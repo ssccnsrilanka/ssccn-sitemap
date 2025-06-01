@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://ssccn.github.io/sitemap.xml
 "Add robots.txt with sitemap link"
